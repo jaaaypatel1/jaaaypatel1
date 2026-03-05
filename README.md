@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @jay-ma-patel  
+- 👋 Hi, I’m @jaaaypatel1 
 - 💻 CS & Engineering student at Ohio State  
 - 🤖 I build projects in ML, embedded systems, VR/AR simulation, and robotics  
 - Recent work includes assistive communication apps, RP2040 firmware, ML fracture mechanics models, VR/AR training systems, and LoRa-based robot communication.
